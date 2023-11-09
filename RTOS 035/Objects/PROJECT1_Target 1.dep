@@ -1,0 +1,10 @@
+Dependencies for Project 'PROJECT1', Target 'Target 1': (DO NOT MODIFY !)
+F (.\RTX_Config.c)(0x651EE228)(-c --cpu ARM7TDMI -D__RTX -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork --split_sections-I"D:\NEW KEIL SOFTWARE LINK\ARM\RV31\INC"-I"D:\NEW KEIL SOFTWARE LINK\ARM\CMSIS\Include"-I"D:\NEW KEIL SOFTWARE LINK\ARM\Inc\Philips"-D__UVISION_VERSION="522"-o .\objects\rtx_config.o --omf_browse .\objects\rtx_config.crf --depend .\objects\rtx_config.d)
+I (D:\NEW KEIL SOFTWARE LINK\ARM\RV31\INC\RTL.h)(0x559DA558)
+I (D:\NEW KEIL SOFTWARE LINK\ARM\Inc\Philips\LPC21xx.H)(0x559D9FE8)
+I (D:\NEW KEIL SOFTWARE LINK\ARM\RV31\INC\RTX_lib.c)(0x559DA558)
+F (.\Startup.s)(0x651EE226)(--cpu ARM7TDMI --pd "__RTX SETA 1" --pd "__EVAL SETA 1" -g --apcs=interwork --pd "__MICROLIB SETA 1"-I"D:\NEW KEIL SOFTWARE LINK\ARM\RV31\INC"-I"D:\NEW KEIL SOFTWARE LINK\ARM\CMSIS\Include"-I"D:\NEW KEIL SOFTWARE LINK\ARM\Inc\Philips"--pd "__UVISION_VERSION SETA 522"--list .\listings\startup.lst --xref -o .\objects\startup.o --depend .\objects\startup.d)
+F (.\project5.c)(0x654D4A8E)(-c --cpu ARM7TDMI -D__RTX -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork --split_sections-I"D:\NEW KEIL SOFTWARE LINK\ARM\RV31\INC"-I"D:\NEW KEIL SOFTWARE LINK\ARM\CMSIS\Include"-I"D:\NEW KEIL SOFTWARE LINK\ARM\Inc\Philips"-D__UVISION_VERSION="522"-o .\objects\project5.o --omf_browse .\objects\project5.crf --depend .\objects\project5.d)
+I (D:\NEW KEIL SOFTWARE LINK\ARM\RV31\INC\rtl.h)(0x559DA558)
+I (D:\NEW KEIL SOFTWARE LINK\ARM\Inc\Philips\lpc21xx.h)(0x559D9FE8)
+I (D:\NEW KEIL SOFTWARE LINK\ARM\ARMCC\include\stdio.h)(0x57F6D9A8)

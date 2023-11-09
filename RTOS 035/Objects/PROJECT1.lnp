@@ -1,0 +1,9 @@
+--cpu ARM7TDMI
+".\objects\rtx_config.o"
+".\objects\startup.o"
+".\objects\project5.o"
+"D:\NEW KEIL SOFTWARE LINK\ARM\RV31\LIB\RTX_ARM_LA.LIB"
+--library_type=microlib --strict --scatter ".\Objects\PROJECT1.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Listings\PROJECT1.map" -o .\Objects\PROJECT1.axf
