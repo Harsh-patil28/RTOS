@@ -1,3 +1,4 @@
+//SEMAPHORE
 #include<rtl.h>
 #include<lpc21xx.h>
 #include<stdio.h>
